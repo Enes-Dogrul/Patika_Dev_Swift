@@ -1,5 +1,4 @@
-# Patika_Dev_Swift
-## Veri-yapilari-ve-algoritmalar
+# Veri-yapilari-ve-algoritmalar
 [Patika.dev](http://www.patika.dev "Patika.dev")
 ## Insertion Sort Projesi-Patika.dev
 1. Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
