@@ -15,6 +15,6 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 |  Bölünen Dizilerde 2 Eleman veya az eleman varsa Dizi Bölme işlemini Durdururuz |  [16,21] [11] - [8,12] [22]  |
 |  İkili Olarak Birleştirme işlemine başlarız | [11,16,21] - [8,12,22]  |
 | Kendi Aralarında Büyüklük Küçüklük Karşılaştırmasını yaparız ve Birleştiririz|[8,11,16,21,22] |
-ve İşlemimiz Bitmiş Olur.
+ve İşlemimiz Bitmiş Olur. | [8,11,16,21,22]
 ## Big-O gösterimini yazınız.
 O(nlogn)
